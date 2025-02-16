@@ -1,0 +1,1 @@
+GPT request: Java class that filters out zeros from a given array, sorts the remaining elements, and splits them into a 2-dimensional array
