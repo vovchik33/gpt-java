@@ -1,0 +1,1 @@
+GPT request: Example of how to split a string into words in Java
