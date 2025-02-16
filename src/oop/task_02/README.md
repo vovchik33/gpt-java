@@ -1,0 +1,1 @@
+GPT request: Demonstrate the use of interfaces in Java, let's create an interface called Speakable that will be implemented by the Animal class and its subclasses
